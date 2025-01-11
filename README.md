@@ -1,16 +1,16 @@
-# RustCLI
+# RustHttpCLI
 
 ## Description
 
-RustCLI is a command-line application developed in Rust. It provides robust features to manage your tasks efficiently.
+RustHttpCLI is a command-line application developed in Rust. It provides robust features to manage your tasks efficiently.
 
 ## Installation
 
 Ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your system. Then, clone the repository and build the project:
 
 ```zsh
-git clone https://github.com/TheScattyPotty/rustCli.git
-cd rustCli
+git clone https://github.com/TheScattyPotty/RustHttpCLI.git
+cd RustHttpCLI
 cargo build
 ```
 
@@ -55,7 +55,7 @@ cargo build --release
 For example, add it to `~/.zshrc`:
 
 ```zsh
-export PATH="$PATH:$HOME/Desktop/rustCli/target/release"
+export PATH="$PATH:$HOME/Desktop/RustHttpCLI/target/release"
 ```
 
 You can modify this step as needed for your setup.
